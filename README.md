@@ -1,4 +1,9 @@
 ### Hi there 👋 I'm Yvette
+
+<div align="left">
+  <img height="200" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayw20&layout=compact&hide_title=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9"/>
+  <img height="135" src="https://streak-stats.demolab.com?user=dayw20&theme=tokyonight&hide_border=true"/>
+</div>
 <p>
   <!-- TypeScript -->
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
@@ -21,9 +26,9 @@
   <!-- C++ -->
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
 
-</p>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"/>
 
-<p>
   <!-- React -->
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
   
@@ -38,5 +43,7 @@
   
   <!-- Git -->
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+
 </p>
+
 
